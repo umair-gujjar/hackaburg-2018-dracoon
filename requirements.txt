@@ -1,0 +1,5 @@
+Theano==1.0
+gensim==3.4.0
+python-magic==0.4.15
+rake-nltk==1.0.3
+stop-words==2015.2.23.1

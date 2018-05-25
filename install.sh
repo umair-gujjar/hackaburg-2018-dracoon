@@ -1,3 +1,3 @@
 #!/bin/sh
 
-pyenv exec install -r requirements.txt
+pyenv exec pip install -r requirements.txt
